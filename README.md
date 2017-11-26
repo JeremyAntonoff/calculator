@@ -1,6 +1,6 @@
 # Javascript Calculator
 
-A simple web calculator made entirely in HTML5, CSS3 and Javascript.
+A simple web calculator made entirely in HTML5, CSS3 and JavaScript.
 
 ![alt text](https://jeremyantonoff.com/img/work/calc.JPG "calculator")
 

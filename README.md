@@ -2,7 +2,7 @@
 
 A simple web calculator made entirely in HTML5, CSS3 and Javascript.
 
-![alt text](https://jeremyantonoff.com/img/work/calculator.JPG "calculator")
+![alt text](https://jeremyantonoff.com/img/work/calc.JPG "calculator")
 
 >**User Story:** I can add, subtract, multiply and divide two numbers.<br>
 >**User Story:** I can clear the input field with a clear button.<br>
